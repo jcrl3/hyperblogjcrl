@@ -1,5 +1,6 @@
 este es un archivo creado por mi JC que estoy aprendiendo flutter y git 
 y se me olvido poner mi edad la cual es de 48 años pero me estoy preparando para aprender mas!!!
+y tambien me falto comentar que tengo ganas de aprender mucho
 
 
 
