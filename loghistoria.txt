@@ -1,0 +1,47 @@
+commit 434978d6f3b536e41df790c14fc23aaf940463d5
+Author: Juan Carlos Ramirez <jcrl@MacBook-Pro-de-JUAN-2.local>
+Date:   Fri Nov 8 07:17:32 2024 -0600
+
+    recupere el ultimo archivo modificado
+
+commit f73a83ce827345ed70b32a5029a2ee33b4383dd9
+Author: Juan Carlos Ramirez <jcrl@MacBook-Pro-de-JUAN-2.local>
+Date:   Thu Nov 7 06:26:36 2024 -0600
+
+    reemplazo una version por otra de la historia
+
+commit 57118d80454e58d12e8517c5a60c65208daf92b3
+Author: Juan Carlos Ramirez <jcrl@MacBook-Pro-de-JUAN-2.local>
+Date:   Thu Nov 7 06:20:27 2024 -0600
+
+    retomando el curso
+
+commit 8bb4f27f987120e652f1db711538e50e1d7fa3b1
+Author: Juan Carlos Ramirez <jcrl@MacBook-Pro-de-JUAN-2.local>
+Date:   Wed Nov 6 07:14:35 2024 -0600
+
+    cambio de vida y obra maestra
+
+commit ce0200e8251ec062d8ff1a4f8511e7c90b130678
+Author: Juan Carlos Ramirez <jcrl@MacBook-Pro-de-JUAN-2.local>
+Date:   Wed Nov 6 07:13:25 2024 -0600
+
+    cambio de vida
+
+commit 9fbac050b9f910854cc900562f34675abd5772b9
+Author: Juan Carlos Ramirez <jcrl@MacBook-Pro-de-JUAN-2.local>
+Date:   Fri Nov 1 07:41:29 2024 -0600
+
+    archivo con cambios donde indico las ganas de aprender
+
+commit 66bcc20f79060ca12d7699e1d508d9183a97fbf3
+Author: jcrl <jcrl@MacBook-Pro-de-JUAN-2.local>
+Date:   Fri Nov 1 07:31:12 2024 -0600
+
+    archivo con cambios a mi edad y lo que estoy haciendo para preparame
+
+commit 8fdb1cce1f9991046ec85db24108cd52c652c811
+Author: jcrl <jcrl@MacBook-Pro-de-JUAN-2.local>
+Date:   Fri Nov 1 07:23:14 2024 -0600
+
+    este es mi primer commit
